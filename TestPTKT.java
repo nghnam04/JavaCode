@@ -1,3 +1,4 @@
+ //PT khởi tạo mặc định do java cung cấp
  class BankAccount{
     private String owner;
     private double balance;
